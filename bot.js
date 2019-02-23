@@ -10,8 +10,8 @@ const queue = new Map();
 const ytdl = require('ytdl-core');
 const fs = require('fs');
 const gif = require("gif-search");
-const prefix = "3"
-const adminprefix = "3"
+const prefix = "*"
+
 /////////////////////////
 ////////////////////////
 //////////////////////
